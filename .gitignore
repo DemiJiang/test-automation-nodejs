@@ -1,2 +1,4 @@
 .DS_Store
 .idea
+target-app/.idea
+target-app/node_modules
