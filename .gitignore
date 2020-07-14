@@ -2,3 +2,5 @@
 .idea
 target-app/.idea
 target-app/node_modules
+e2e-nightwatch/node_modules
+e2e-nightwatch/.idea
