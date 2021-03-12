@@ -4,3 +4,6 @@ target-app/.idea
 target-app/node_modules
 e2e-nightwatch/node_modules
 e2e-nightwatch/.idea
+e2e-playwright/.idea
+e2e-playwright/node_modules
+e2e-playwright
